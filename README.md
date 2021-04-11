@@ -79,7 +79,7 @@ We recommend [progressive enhancement](https://www.smashingmagazine.com/2009/04/
 </div>
 ```
 
-_Note_: The `plyr__video-embed` classname will make the player a responsive 16:9 (most common) iframe embed. When plyr itself kicks in, your custom `ratio` config option will be used.
+Note_: The `plyr__video-embed` classname will make the player a responsive 16:9 (most common) iframe embed. When plyr itself kicks in, your custom `ratio` config option will be used.
 
 Or the `<div>` non progressively enhanced method:
 
